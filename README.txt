@@ -1,3 +1,5 @@
 Bonjour,
 
-Bienvenue sur le README de mon projet.
+Vous trouvez ici le README de mon projet.
+
+C'est un vrai plaisir de travailler avec Git.
